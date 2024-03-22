@@ -13,7 +13,7 @@ var tempUnit = 'C';
 
 const KELVIN = 273.15;
 // Use your own key for the Weather, Get it here: https://openweathermap.org/
-const key = '643f324027808e08053ab63041892e4a';
+const key = 'a4c7cfcf8b123e54a89e28bde8fbe03a';
 
 // Set Position function
 setPosition();
